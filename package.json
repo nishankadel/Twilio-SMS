@@ -1,0 +1,10 @@
+{
+  "name": "twillio-sms",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twilio": "^3.63.1"
+  }
+}
